@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+
+Am Next, i like to program, i really like game development that am learning right now, but in my spare time i like to do Minecraft Spigot Plugins
+i made many plugins, and i made a cool API called JsonFile am really proud of myself :)
+
+# Projects
+
+## JsonFile
+https://github.com/SpreestDev/JsonFile
 
 <!--
 **SpreestDev/SpreestDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
