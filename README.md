@@ -1,11 +1,13 @@
-# Hi there 👋
+# About me 👋
 
-Am Next, i like to program, i really like game development that am learning right now, but in my spare time i like to do Minecraft Spigot Plugins
-i made many plugins, and i made a cool API called JsonFile am really proud of myself :)
+Hi there! I'm an Italian teenager who fell in love with programming when I was 12 years old. Ever since then, I have been learning and creating amazing things with code. I mainly program in Kotlin and Java, where I make games and Minecraft plugins. I enjoy making fun and challenging experiences for myself and other players.
 
 # Projects
 
 ## JsonFile
+
+I am so excited for this project called 'JsonFile' that is a kotlin and java api for creating json files and modifying them. JsonFile is a powerful and easy-to-use tool that allows me to work with json data in a flexible and efficient way. I can create json files from scratch, or load them from a url, and then manipulate them with various methods and functions. JsonFile is compatible with both kotlin and java, so I can use it in any project that requires json processing. JsonFile is the ultimate solution for handling json data in kotlin and java!
+
 https://github.com/SpreestDev/JsonFile
 
 <!--
