@@ -1,26 +1,3 @@
-# About me 👋
+# Hi there 👋!
 
-Hi there! I'm an Italian teenager who fell in love with programming when I was 12 years old. Ever since then, I have been learning and creating amazing things with code. I mainly program in Kotlin and Java, where I make games and Minecraft plugins. I enjoy making fun and challenging experiences for myself and other players.
-
-# Projects
-
-## JsonFile
-
-I am so excited for this project called 'JsonFile' that is a kotlin and java api for creating json files and modifying them. JsonFile is a powerful and easy-to-use tool that allows me to work with json data in a flexible and efficient way. I can create json files from scratch, or load them from a url, and then manipulate them with various methods and functions. JsonFile is compatible with both kotlin and java, so I can use it in any project that requires json processing. JsonFile is the ultimate solution for handling json data in kotlin and java!
-
-https://github.com/SpreestDev/JsonFile
-
-<!--
-**SpreestDev/SpreestDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let me tell you who I am. I'm a game developer who loves to create fun and engaging experiences for players. I use kotlin as my programming language of choice, because it's concise, expressive and versatile. I also like to help people, whether it's by sharing my knowledge, giving feedback or collaborating on projects. I'm always eager to learn new things and improve my skills. That's me in a nutshell!
